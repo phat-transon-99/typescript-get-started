@@ -15,5 +15,7 @@
         "project": "./tsconfig.json"
     },
     "rules": {
+        "no-console": "off",
+        "linebreak-style": ["error", "windows"]
     }
 }
